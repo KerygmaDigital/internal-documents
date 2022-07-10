@@ -1,3 +1,3 @@
-# Internal Documents
-
-This repository contains all applicable files relating to the company, such as filings, tax information, etc.
+<p align="center">
+    <h3>Kerygma Digital has moved to GitLab! Click <a href="https://gitlab.com/kerygmadigital/internal-documents">here</a> to see the new repository!</h3>
+</p>
